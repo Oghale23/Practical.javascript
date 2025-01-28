@@ -1,0 +1,13 @@
+.nav-center{
+    background-color: aquamarine;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+body{
+    align-items: center;
+    display: flex;
+    background-color: brown;
+    height: 100vh;
+}
